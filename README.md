@@ -1,5 +1,5 @@
 # space_soldier
-/*
+
 Hi, this is a small project I enjoyed while I working on it. 
 
 Space soldier is a arcade game which can be played on terminal.
@@ -13,4 +13,4 @@ Meteors will come a bit closer every five rounds, be careful, don't hit them!!!
 You can always exit with command "exit"
 
 Have fun :)
-*/
+
